@@ -127,15 +127,14 @@ java UnoGameApp
 - **Observer Pattern**: Listener system for card drawing and game events
 - **Singleton Pattern**: `UICore` for global style constants
 
-## 👥 Team
+## 👥 Development Team
 
 - **AKKOUCHI Nesrine**
-- **DELHOUM Fatma Zohra Lina**
+- **DELHOUM FatmaZohra Lina**
 - **NOUREDDINE Sofia**
 - **OUARI Yasmine**
 
-
-**Supervised by**: MAYATA Raouf
+**Academic Supervisor**: MAYATA Raouf
 
 ## 📅 Academic Year
 
@@ -144,21 +143,6 @@ java UnoGameApp
 ## 📄 License
 
 This project was developed for educational purposes as part of an end-of-semester assignment.
-
-## 🙏 Acknowledgments
-
-- Faculty of Computer Science, USTHB
-- Professor MAYATA Raouf for supervision and guidance
-- The official UNO game for rules and inspiration
-
-## 📸 Screenshots
-
-The project includes several polished screens:
-- Welcome screen with UNO branding
-- Player setup with avatar selection
-- Main menu with multiple options
-- In-game interface with all components visible
-- Rules display for quick reference
 
 ## 🔮 Future Enhancements
 
@@ -173,4 +157,4 @@ Potential improvements for future versions:
 
 ---
 
-**Note**: This README reflects the project state as of May 4, 2025. For questions or contributions, please contact the development team.
+**Note**: This README reflects the project state as of May 4, 2025. For questions or contributions, please contact the user.
